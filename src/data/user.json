@@ -1,0 +1,26 @@
+[
+    {
+        "user_id":1,
+        "name":"shyam",
+        "password":"123",
+        "email":"shyam@gmail.com",
+        "role":"admin",
+        "status":1
+    },
+    {
+        "user_id":2,
+        "name":"raj",
+        "password":"123456",
+        "email":"raj@gmail.com",
+        "role":"user",
+        "status":1
+    },
+    {
+        "user_id":3,
+        "name":"yash",
+        "password":"123",
+        "email":"yash@gmail.com",
+        "role":"user",
+        "status":1
+    }
+]

@@ -1,0 +1,21 @@
+.menu{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.menu li a{
+    font-size:20px;
+    text-decoration: none;
+    color:  #000;
+    margin: 10px 20px;
+}
+
+.menu span{
+    background-color: #000;
+    color: #fff;
+    font-size: 12px;
+    padding: 3px;
+    border-radius: 10px;
+}

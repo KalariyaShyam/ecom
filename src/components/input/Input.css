@@ -1,0 +1,17 @@
+.input-box label{
+    font-size: 15px;
+    width: 100%;
+    display: block;
+}
+.input-box input{
+    font-size: 15px;
+    width: 100%;
+    display: block;
+    padding: 5px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    border:1px solid #eee;
+}
+.input-box input:focus{
+    outline: none;
+}
